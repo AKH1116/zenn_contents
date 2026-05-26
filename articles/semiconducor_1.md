@@ -1,7 +1,7 @@
 ---
 title: "半導体関連メモ_その1"
 emoji: "📝"
-type: "idea" # tech: 技術記事 / idea: アイデア
+type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["基礎技術","半導体"]
 published: True
 ---
