@@ -19,4 +19,4 @@ published: True
   
 半導体の代表的な材料であるSiやGeはどちらも周期表上ではIV族に属する。IV族元素は最外殻電子軌道に8個の電子を持つことができる。この性質を***オクテット則***という。オクテット則の性質を持つ元素は、安定した結晶構造を形成できる利点をもつ。
 　　
-![alt text](../images/semicon_character.svg)
+![](/images/semicon_character.svg)
